@@ -1,2 +1,2 @@
-# truenorth
+# TrueNorth
 voiceleading application
